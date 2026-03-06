@@ -1,1 +1,1 @@
-# N-MIDI-Documentation
+# NIMP-Documentation
